@@ -1,16 +1,29 @@
-# news_app
+# news_app 📰
 
-A new Flutter project.
+A Flutter news application that displays the latest headlines by category with a clean UI and smooth user experience.
 
-## Getting Started
+## 📱 App Demo
+https://github.com/user-attachments/assets/786dff62-beb0-417a-85de-5f61cea84c55
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Browse top headlines by category
+- Fetch news from a real API
+- Open full articles in the browser
+- Clean and simple UI
+- Smooth scrolling with Slivers
+- Error handling for failed requests
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Dio (API requests)
+- NewsAPI
+- URL Launcher
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Concepts Used
+- REST API integration
+- Async & Future handling
+- MVC-like structure
+- Models & JSON parsing
+- Slivers & CustomScrollView
+- Reusable widgets
